@@ -134,9 +134,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"audio\/Poke Center.mid"
+                 "value":"https:\/\/github.com\/teixeirazeus\/map-starter-kit\/raw\/master\/audio\/Poke%20Center.mid"
                 }],
          "type":"tilelayer",
          "visible":true,
